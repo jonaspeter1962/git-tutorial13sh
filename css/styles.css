@@ -4,3 +4,9 @@ html{
 h1{
     font-size: 48px;
 }
+p{
+    font-size: 18px;
+    color: chocolate;
+    letter-spacing: 3;
+    text-decoration: dotted;
+}
