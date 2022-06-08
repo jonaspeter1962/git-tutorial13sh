@@ -1,0 +1,26 @@
+html{
+<<<<<<< HEAD
+    font-size: 12px;
+}
+h1{
+    font-size: 48px;
+    color: rgb(47, 47, 158);
+    text-decoration: underline;
+}
+p{
+    font-size: 16;
+    color: darkgreen;
+    letter-spacing: 2px;
+=======
+    font-size: 12;
+
+}
+h1{
+    font-size: 48;
+    color: darkblue;
+}
+p{
+    font-size: 16;
+    letter-spacing: 2;
+>>>>>>> 8eb371e (letterspace)
+}
