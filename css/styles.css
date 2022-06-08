@@ -3,9 +3,15 @@ html{
 }
 h1{
     font-size: 48px;
+
     color: blue;
 }
+
+
 p{
-    font-size: 16px;
-    letter-spacing: 2px;
+    font-size: 18px;
+    color: chocolate;
+    letter-spacing: 3;
+    text-decoration: dotted;
+
 }
